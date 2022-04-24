@@ -1,5 +1,5 @@
 {
-    "name": "vgerbot知识库",
+    "name": "笔记",
     "version": "1.0.0",
     "static-server": "http://static.vgerbot.com/vgerbot-wiki/",
     "page-mounts": true,
