@@ -9,7 +9,7 @@
 Apple, Google, Microsoft, Mozila, Opera都是Houdini项目的推动者，不过当前只有Chrome有实现。
 目前各浏览器实现程度如图：
 
-![CSS Houdini 兼容性](assets/001/002/002/001-1523858228000.png)
+![CSS Houdini 兼容性](../../../../assets/001/002/002/001-1523858228000.png)
 
 CSS Houdini是包含了**Layout API**, **Paint API**等一系列API的统称， **Layout API**控制元素布局， **Paint API**控制CSS表达式处理参数逻辑。
 当前只有 **Paint API** 可以用， Chrome 65+ 已默认开启该接口，65以下的Chrome需要到 `chrome://flags` 开启 `Experimental Web Platform features`。
